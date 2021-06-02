@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../game_of_life/main"
+		},
+		{
+			"name": "game_of_life_pio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cstdlib": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
